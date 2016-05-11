@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image_load">
+        <file>bg.jpg</file>
+        <file>bg.png</file>
+        <file>face1.PNG</file>
+        <file>face2.PNG</file>
+    </qresource>
+</RCC>
